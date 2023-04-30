@@ -20,9 +20,9 @@
             learned: [Teamwork, Entrepreneur, Ambitious of knowledge]
         }
         lenguajes:{
-            basic: [Russian, Italian, Japanesse],
+            basic: [Russian, Italian, Japanese],
             medium-basic: [],
-            medium: [French, Portuguesse],
+            medium: [French, Portuguese],
             medium-advanced: [English],
             native: [Spanish],
             others: [Quenya, Sindarin, Klingon, Valirian]
