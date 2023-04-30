@@ -24,7 +24,7 @@
             medium: [French, Portuguesse],
             medium-advanced: [English],
             native: [Spanish],
-            others: [Quenya, Teldrassil, Klingon, Valirian]
+            others: [Quenya, Sindarin, Klingon, Valirian]
         }
     }
 }
