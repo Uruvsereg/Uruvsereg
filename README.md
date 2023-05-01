@@ -1,6 +1,7 @@
+![Skills](![portada](https://user-images.githubusercontent.com/121077072/235540617-28df1192-9919-47b3-89e1-f79a2e97a107.png)
 ### Hi, my stage name is Uruvsereg.
 #### I'm Julián González, full stack developer, scripter, matte painter, postproducer, montagist, cook and mechatronics.
-<code>
+<pre>
     let Uruvsereg = {
     realName: 'Julián González',
     sex: 'male',
@@ -10,7 +11,7 @@
     skills: {
         hard:{
             learned: [JavaScript, NodeJS, React, Reux, CSS, HTML, Postgres,
-                Markdown, Arduino, Celtex, AfteEffects, Blender, Photoshop,
+                Markdown, Arduino, Celtx, AfteEffects, Blender, Photoshop,
                 UnrealEngine, Java],
             learning: [Python, Angular, Ruby, PremierPRO, Unity, C++, C#]
         }
