@@ -1,4 +1,4 @@
-(![portada](https://user-images.githubusercontent.com/121077072/235540617-28df1192-9919-47b3-89e1-f79a2e97a107.png)
+![portada](https://user-images.githubusercontent.com/121077072/235540617-28df1192-9919-47b3-89e1-f79a2e97a107.png)
 ### Hi, my stage name is Uruvsereg.
 #### I'm Julián González, full stack developer, scripter, matte painter, postproducer, montagist, cook and mechatronics.
 <pre>
